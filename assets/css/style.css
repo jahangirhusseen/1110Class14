@@ -1,14 +1,22 @@
-
-.clock{
-    margin: 30px 5px;
-    font-size: 50px;
+section.section {
     text-align: center;
-    font-family: fantasy;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
-#output{
-    font-size: 200px;
-    font-weight: 900;
-    margin-top: 20px;
-
+.fiverr_counter {
+    font-size: 80px;
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+}
+.card {
+    border: none;
+    text-align: center;
+}
+.csttodo,#do{
+    width: 400px;
+    margin: 0 auto;
+}
+#do{
+    width: 475px;
 }
